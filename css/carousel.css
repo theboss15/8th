@@ -51,6 +51,7 @@ body {
 .carousel .item {
   height: 405px;
   background-color: #777;
+  text-align: center;
 }
 .carousel-inner > .item > img {
   margin:0 auto;
